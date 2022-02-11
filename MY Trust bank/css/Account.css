@@ -1,0 +1,5 @@
+.Account{width:700px;height:500px;background-color: aqua;margin: auto;padding:10px; border-radius: 10px;
+border-style: none;text-align: center;}
+.middle{width:500px;height:400px;background-color: rgb(111, 0, 255);  margin: auto; border-radius: 10px;
+display: inline-block;}
+H1{background-color: chocolate; padding: 10px; display: inline-block; }
